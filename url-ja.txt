@@ -1,0 +1,23 @@
+https://github.com/MrVampo/kursiWebDesign.git
+
+git status 
+
+git add 
+
+git reset 
+
+git diff 
+
+git pull
+
+git log
+
+git commit -> Cdo ndryshim qe bejme duhet commit per tu hedhur ne folderin tone
+
+git push -> nuk e realizojme dot pa bere commit 
+
+git merge 
+
+git clone
+
+git fork
