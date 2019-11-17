@@ -1,0 +1,13 @@
+
+Hapat per hedhjen online te nje site-i wordpress lokalisht
+
+1. Shkojme tek phpmyAdmin in local-hostit edhe bejme export database
+2. Shkojme tek folderi ku kemi te gjitha gjerat e website-it edhe e konvertojme ne ZIP
+3. Logohemi tek serveri jon online
+4. Tek databasat online qe kemi kriojojme nje te re
+5. Krijojme nje user te ri per databasen aktuale ne shared hosting
+6. Krijojme nje folder tek domaini yne, ose tek public_html nese jemi ne root
+7. Bejme COPY/PASTE folderin qe zipuam me heret
+8. Bejme import database tek databaza e krijuar
+9. Bejme extract zipin tek folderi online
+10. Bejme konfigurimet perkatese per databasen edhe url-ne qe na intereson
